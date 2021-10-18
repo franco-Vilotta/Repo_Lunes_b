@@ -1,0 +1,16 @@
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.exe
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.deps.json
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.runtimeconfig.json
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.dll
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\ref\linq_11.dll
+C:\Users\Fran\Desktop\linq_11\bin\Debug\net5.0\linq_11.pdb
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.AssemblyInfo.cs
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.dll
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\ref\linq_11.dll
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.pdb
+C:\Users\Fran\Desktop\linq_11\obj\Debug\net5.0\linq_11.genruntimeconfig.cache
